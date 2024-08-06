@@ -1,0 +1,14 @@
+/home/adilet/Общедоступные/SimpleRep/TestConsole/bin/Debug/net8.0/TestConsole
+/home/adilet/Общедоступные/SimpleRep/TestConsole/bin/Debug/net8.0/TestConsole.deps.json
+/home/adilet/Общедоступные/SimpleRep/TestConsole/bin/Debug/net8.0/TestConsole.runtimeconfig.json
+/home/adilet/Общедоступные/SimpleRep/TestConsole/bin/Debug/net8.0/TestConsole.dll
+/home/adilet/Общедоступные/SimpleRep/TestConsole/bin/Debug/net8.0/TestConsole.pdb
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.AssemblyInfoInputs.cache
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.AssemblyInfo.cs
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.csproj.CoreCompileInputs.cache
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.dll
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/refint/TestConsole.dll
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.pdb
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/TestConsole.genruntimeconfig.cache
+/home/adilet/Общедоступные/SimpleRep/TestConsole/obj/Debug/net8.0/ref/TestConsole.dll
